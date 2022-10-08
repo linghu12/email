@@ -33,6 +33,7 @@ public class send01 {
         System.out.println("come on");
         System.out.println("master test");
         System.out.println("git test");
+        System.out.println("666push");
 
     }
 }
