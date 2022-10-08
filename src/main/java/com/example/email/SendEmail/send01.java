@@ -29,6 +29,7 @@ public class send01 {
         transport.sendMessage(message,message.getAllRecipients());
         transport.close();
         System.out.println("完成");
+        System.out.println("123");
 
     }
 }
