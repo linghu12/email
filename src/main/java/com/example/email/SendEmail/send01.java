@@ -30,6 +30,7 @@ public class send01 {
         transport.close();
         System.out.println("完成");
         System.out.println("123");
+        System.out.println("come on");
 
     }
 }
