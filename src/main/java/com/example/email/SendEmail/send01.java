@@ -34,6 +34,7 @@ public class send01 {
         System.out.println("master test");
         System.out.println("git test");
         System.out.println("666push");
+        System.out.println("666pull");
 
     }
 }
