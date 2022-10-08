@@ -28,6 +28,7 @@ public class send01 {
         transport.connect("3242498120@qq.com","wzpnumxshqkodaaf");
         transport.sendMessage(message,message.getAllRecipients());
         transport.close();
+        System.out.println("完成");
 
     }
 }
