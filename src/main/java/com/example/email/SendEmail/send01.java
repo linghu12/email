@@ -28,13 +28,7 @@ public class send01 {
         transport.connect("3242498120@qq.com","wzpnumxshqkodaaf");
         transport.sendMessage(message,message.getAllRecipients());
         transport.close();
-        System.out.println("完成");
-        System.out.println("123");
-        System.out.println("come on");
-        System.out.println("master test");
-        System.out.println("git test");
-        System.out.println("666push");
-        System.out.println("666pull");
+
 
     }
 }
